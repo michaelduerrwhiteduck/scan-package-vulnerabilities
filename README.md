@@ -36,7 +36,7 @@ Scan Node.js project dependencies for known vulnerabilities, aggregating all occ
 
 ## Example Output
 
-
+```
 Aggregated packages:
 Package           Versions
 -------           --------
